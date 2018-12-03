@@ -1,9 +1,13 @@
 ## 1_Setup:
 Estimated Time: 30-40 minutes
 
+Note: If you have been provided an environment for completing this bootcamp, log in to the Azure Portal (in a private window) with the provided credentials. Connect to your VM. Next, complete Lab 1.1 Steps 2-4. Additionally, you need to make note of the keys provided (should be sent to the email address you provided) and add them to the appropriate sections in `settings.json` (see the beginning of Lab 1.2).
+
 ### Lab: Setting up your Azure Account
 
-Note: If you have been provided an environment for completing this bootcamp, log in to the Azure Portal (in a private window) with the provided credentials. Connect to your VM. Next, complete Lab 1.1 Steps 2-4. Additionally, you need to make note of the keys provided (should be sent to the email address you provided) and add them to the appropriate sections in `settings.json` (see the beginning of Lab 1.2).
+You may activate an Azure free trial at https://azure.microsoft.com/en-us/free/ .
+
+If you have been given an Azure Pass to complete this lab, you may go to http://www.microsoftazurepass.com/ to activate it. Please follow the instructions at https://www.microsoftazurepass.com/howto , which document the activation process. A Microsoft account may have one free trial on Azure and one Azure Pass associated with it, so if you have already activated an Azure Pass on your Microsoft account, you will need to use the free trial or use another Microsoft account.
 
 ### Lab 1.1: Setting up your Data Science Virtual Machine
 
