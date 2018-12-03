@@ -20,7 +20,7 @@ Take some time to review the links referenced to above.
 
 
 ### Lab 1.1: Creating the LUIS service in the portal
-Note: Creating a LUIS service in the portal is optional, as LUIS provides you with a "starter key" that you can use for the labs. However, if you want to see how to create a free or paid service in the portal, you can follow the steps below.
+> Note: Creating a LUIS service in the portal is optional, as LUIS provides you with a "starter key" that you can use for the labs. However, if you want to see how to create a free or paid service in the portal, you can follow the steps below.
 
 In the Portal, hit **Create a resource** and then enter **LUIS** in the search box and choose **Language Understanding**:
 
