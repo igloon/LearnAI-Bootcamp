@@ -21,7 +21,7 @@ At the end of this 300-level workshop, you should be able to:
 Please note: This is a rough agenda, and the schedule is subject to change pending class activities and interaction. Also note that the numbering here will not always be the same as the numbering in the references. This airlift is a combination of several courses.
 
 - 9:00 - 9:30: Introduction
-- 9:30 - 10:00: [Cognitive Services](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/blob/master/05-cognitive_services/1_session.ipynb) and [PictureBot Introduction](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md)
+- 9:30 - 10:00: [Cognitive Services](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents/blob/master/05-cognitive_services/1_session.md) and [PictureBot Introduction](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.1-computer_vision/0_README.md)
 - 10:00 - 11:00: [Lab 1.1: Building Intelligent Bots part I](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.2-building_bots/0_README.md)
 - 11:00 - 11:15: Break
 - 11:15 - 12.30: [Lab 1.1: Building Intelligent Bots part II](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab02.2-building_bots/0_README.md)
